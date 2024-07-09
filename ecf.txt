@@ -7,14 +7,14 @@
             "id": 43,
             "name": "EMI All In One Calculator",
             "secret_key": "cf46cdc8d8be40e7f0f0d4200487b935",
-            "is_facebook": 1,
-            "is_adx": 0,
+            "is_facebook": 0,
+            "is_adx": 1,
             "is_admob": 0,
             "status": 1,
             "created_at": "2024-03-04T09:37:50.000000Z",
-            "updated_at": "2024-07-08T12:27:29.000000Z",
+            "updated_at": "2024-07-09T10:00:21.000000Z",
             "is_check_screen": 0,
-            "alias": "Dreamerzzz [ Honor ]"
+            "alias": "Mishra"
         },
         "app_units": [
             {
@@ -3681,6 +3681,84 @@
                         "status": 0,
                         "created_at": "2024-03-09T07:06:49.000000Z",
                         "updated_at": "2024-03-09T07:06:49.000000Z"
+                    }
+                ]
+            },
+            {
+                "id": 1596,
+                "app_id": "43",
+                "app_unit_id": 128,
+                "name": "SelectCalculatorScreen",
+                "screen_key": "1c809840bd9529ea7378ec178078518b",
+                "status": 1,
+                "created_at": "2024-07-09T10:00:45.000000Z",
+                "updated_at": "2024-07-09T10:00:45.000000Z",
+                "is_facebook": 1,
+                "is_google": 1,
+                "advertisements": [
+                    {
+                        "id": 11647,
+                        "screen_id": "1596",
+                        "name": "Banner",
+                        "status": 1,
+                        "created_at": "2024-07-09T10:00:45.000000Z",
+                        "updated_at": "2024-07-09T10:00:56.000000Z"
+                    },
+                    {
+                        "id": 11648,
+                        "screen_id": "1596",
+                        "name": "Interstitial",
+                        "status": 1,
+                        "created_at": "2024-07-09T10:00:45.000000Z",
+                        "updated_at": "2024-07-09T10:00:54.000000Z"
+                    },
+                    {
+                        "id": 11649,
+                        "screen_id": "1596",
+                        "name": "RewardedInterstitial",
+                        "status": 0,
+                        "created_at": "2024-07-09T10:00:45.000000Z",
+                        "updated_at": "2024-07-09T10:00:45.000000Z"
+                    },
+                    {
+                        "id": 11650,
+                        "screen_id": "1596",
+                        "name": "Rewarded",
+                        "status": 0,
+                        "created_at": "2024-07-09T10:00:45.000000Z",
+                        "updated_at": "2024-07-09T10:00:45.000000Z"
+                    },
+                    {
+                        "id": 11651,
+                        "screen_id": "1596",
+                        "name": "Native",
+                        "status": 1,
+                        "created_at": "2024-07-09T10:00:45.000000Z",
+                        "updated_at": "2024-07-09T10:00:53.000000Z"
+                    },
+                    {
+                        "id": 11652,
+                        "screen_id": "1596",
+                        "name": "AppOpen",
+                        "status": 0,
+                        "created_at": "2024-07-09T10:00:45.000000Z",
+                        "updated_at": "2024-07-09T10:00:45.000000Z"
+                    },
+                    {
+                        "id": 11653,
+                        "screen_id": "1596",
+                        "name": "BackButton",
+                        "status": 1,
+                        "created_at": "2024-07-09T10:00:45.000000Z",
+                        "updated_at": "2024-07-09T10:00:51.000000Z"
+                    },
+                    {
+                        "id": 11654,
+                        "screen_id": "1596",
+                        "name": "Qureka",
+                        "status": 0,
+                        "created_at": "2024-07-09T10:00:45.000000Z",
+                        "updated_at": "2024-07-09T10:00:45.000000Z"
                     }
                 ]
             }
