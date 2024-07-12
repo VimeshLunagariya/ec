@@ -12,7 +12,7 @@
             "is_admob": 0,
             "status": 1,
             "created_at": "2024-03-04T09:37:50.000000Z",
-            "updated_at": "2024-07-12T08:50:41.000000Z",
+            "updated_at": "2024-07-12T10:48:30.000000Z",
             "is_check_screen": 0,
             "alias": "Mishra"
         },
@@ -1116,9 +1116,9 @@
                 "app_unit_id": 128,
                 "name": "OneByOneAppOpenAd",
                 "screen_key": "101e731e4579d1a4ec7f5ae67d715cca",
-                "status": 1,
+                "status": 0,
                 "created_at": "2024-03-04T09:43:53.000000Z",
-                "updated_at": "2024-03-04T09:43:53.000000Z",
+                "updated_at": "2024-07-12T11:01:25.000000Z",
                 "is_facebook": 1,
                 "is_google": 1,
                 "advertisements": [
